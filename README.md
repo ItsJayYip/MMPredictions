@@ -7,7 +7,7 @@
 4) [sqlite](https://docs.python.org/3/library/sqlite3.html) for manipulating the .csv data files 
 
 ## Results
-1) Round of 64: TBD
+1) Round of 64: 26 / 32, meaning 26 points
 2) Round of 32: TBD
 3) Sweet 16: TBD
 4) Elite 8: TBD
