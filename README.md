@@ -18,4 +18,4 @@
  - I only used 11 seasons (from 2014 to 2025) to train and test my model, though there is data that goes back to the early 2000s. I believe CBB has changed a lot since then, so I wanted to focus on a more modern side of CBB.
  - Information about the ML competition is [here](https://www.cs.cmu.edu/~reids/mmml/)
  - Information about the actual tournament is [here](https://www.ncaa.com/march-madness-live/bracket)
- - My personal pick to win MM is Vanderbilt, mainly because I played against their star player Tyler Tanner (First Team SEC) in high school.
+ - My personal pick to win MM is Vanderbilt, mainly because I played against their star player Tyler Tanner (First Team SEC) in high school (damn, they lost 🙃).
