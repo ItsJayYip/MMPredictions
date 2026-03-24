@@ -6,7 +6,7 @@
       Simplified BSD License (see ipc/LICENSE.TXT)
 '''
 import pandas as pd
-from utils import read_data
+from reid.utils import read_data
 
 class ShowBracket:
     def __init__(self, bracket, item_width=10):
