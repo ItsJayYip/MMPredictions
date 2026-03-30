@@ -9,7 +9,7 @@
 ## Results
 1) Round of 64: 26 / 32, meaning 26 points
 2) Round of 32: 11/16, meaning 22 points
-3) Sweet 16: TBD
+3) Sweet 16: 3/8, meaning 12 points :(
 4) Elite 8: TBD
 5) Final 4: TBD
 6) National Championship: TBD
