@@ -11,7 +11,7 @@
 2) Round of 32: 11/16, meaning 22 points
 3) Sweet 16: 3/8, meaning 12 points :(
 4) Elite 8: 4/4, meaning 32 points
-5) Final 4: TBD
+5) Final 4: 2/2, meaning 32 points
 6) National Championship: TBD
 
 ## Notes
